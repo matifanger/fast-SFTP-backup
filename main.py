@@ -1,4 +1,4 @@
-import os, getopt
+import os
 import pysftp
 from stat import S_ISDIR, S_ISREG
 from configparser import ConfigParser
