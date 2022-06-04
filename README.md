@@ -1,11 +1,11 @@
-<p align="center">
-fast-SFTP-backup
-</p>
 
-# Description
+# fast-SFTP-backup
+
+
+## Description
 Fast python SFTP backup, easy configuration.
 
-# How to
+## How to
 Only setup config.ini with your information.
 ```
 [folders]
@@ -18,8 +18,9 @@ username=
 password=
 ```
 
-# Todo
-[] Compressed backups
-[] Dated backups
-[] Only exactly path or files
-[] Ignore certain path or files
+## Todo 📄
+
+- [ ] Compressed backups
+- [ ] Dated backups
+- [ ] Only exactly path or files
+- [ ] Ignore certain path or files
